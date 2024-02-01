@@ -1,2 +1,2 @@
 # Bubble-Game
-game
+[Live Demo](https://bubblegame09.netlify.app/)
